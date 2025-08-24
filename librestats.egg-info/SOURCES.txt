@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+librestats/__init__.py
+librestats/datasets.py
+librestats.egg-info/PKG-INFO
+librestats.egg-info/SOURCES.txt
+librestats.egg-info/dependency_links.txt
+librestats.egg-info/requires.txt
+librestats.egg-info/top_level.txt

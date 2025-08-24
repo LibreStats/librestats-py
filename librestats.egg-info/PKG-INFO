@@ -1,3 +1,29 @@
+Metadata-Version: 2.4
+Name: librestats
+Version: 0.1.0
+Summary: A Python library for accessing open and community-curated datasets
+Home-page: https://github.com/LibreStats/librestats-py
+Author: LibreStats Community
+Author-email: malexben443@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 <p align="center">
   <img width="354" height="76" alt="librestats_py_logo" src="https://github.com/user-attachments/assets/35855611-e368-4969-b400-f32be5f25d2f" />
 </p>
